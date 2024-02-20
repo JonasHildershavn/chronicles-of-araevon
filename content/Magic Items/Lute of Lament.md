@@ -1,0 +1,9 @@
+*This unique lute appears to have been grown rather than crafted, its body a living piece of an ancient tree, with vines and leaves subtly entwined around its frame. Its strings emit a soft, ethereal glow, resonating with the power to commune with and influence spirits.*
+
+![[lute.png]]
+
+- **Magical**: Wondrous item, rare, requires attuning _(requires attunement by a spellcaster, automatically attuned to a Spirit Binder during the Festival of Whispers)_
+- **Ethereal Discord**: While playing the lute, the attuned user can use an action to force spirits, ghosts, and ethereal entities within 30 feet to make a Wisdom saving throw against the user's Spell Save DC. On a failed save, the entities are Disadvantaged on attack rolls and cannot pass through objects or creatures for 1 minute. This feature can be used once per long rest.
+- **Harmony of Rest**: Once per long rest, as an action, the user can play a melody that grants advantage on saving throws against being frightened or possessed by spirits or ghosts for the user and any allies within 30 feet. This effect lasts for 1 minute.
+- **Spiritual Resonance**: The lute has 4 charges and regains 1d4 charges at dawn. As an action, the user can expend one charge to cast _detect evil and good_ or _protection from evil and good_ without using a spell slot or material components. When targeting undead or ethereal creatures with _protection from evil and good_ using the lute, the duration is extended to 1 hour, even if concentration is broken.
+- **Elegy of the Bound**: Once per long rest, as an action, the user can cast _hold person_ at its base level, but it affects undead and ethereal beings as though they were humanoid. The spell save DC is the user's Spell Save DC.
