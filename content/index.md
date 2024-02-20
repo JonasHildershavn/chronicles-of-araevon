@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to the World of Araevon
 ---
 
 This is a blank Quartz installation.
