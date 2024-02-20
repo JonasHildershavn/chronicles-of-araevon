@@ -1,0 +1,1 @@
+![[Tåkedalene-mindre.jpeg]]
